@@ -93,7 +93,8 @@ def generate_answer_from_rag(query):
     return response["result"]
 
 # Load the MedQuad dataset
-dataset = load_dataset("keivalya/MedQuad-MedicalQnADataset", split="train")
+# dataset = load_dataset("keivalya/MedQuad-MedicalQnADataset", split="train")
+dataset = load_dataset("keivalya/MedQuad-MedicalQnADataset", split="train").select(range(100))
 
 results = []
 
