@@ -11,8 +11,11 @@ from nltk.translate.bleu_score import sentence_bleu
 import numpy as np
 from datasets import load_dataset
 import pandas as pd
+from dotenv import load_dotenv, find_dotenv
 
 embedder = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+
+load_dotenv(find_dotenv())
 
 # Step 1: Setup LLM (Mistral with HuggingFace)
 HF_TOKEN=os.environ.get("HF_TOKEN")
