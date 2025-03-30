@@ -118,5 +118,5 @@ for item in dataset:
 
 # Save results to CSV
 df = pd.DataFrame(results)
-df.to_csv("medquad_evaluation_results.csv", index=False)
+df.to_csv("medquad_evaluation_results.csv", index=False, mode="a", header=False)
 print("Evaluation completed! Results saved to medquad_evaluation_results.csv")
