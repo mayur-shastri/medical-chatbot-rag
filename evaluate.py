@@ -33,14 +33,17 @@ def load_llm(huggingface_repo_id):
 # Step 2: Connect LLM with FAISS and Create chain
 
 CUSTOM_PROMPT_TEMPLATE = """
-Use the pieces of information provided in the context to answer user's question.
-If you dont know the answer, just say that you dont know, dont try to make up an answer. 
-Dont provide anything out of the given context
+Use the information provided in the context to answer the user's question as accurately and comprehensively as possible.
+If the context does not contain sufficient information, say that you don't know—do not generate an answer outside the given context.
 
-Context: {context}
-Question: {question}
+- Provide a well-structured and informative response.
+- Include explanations, possible causes, symptoms, treatments, or precautions, only if the provided context has any, and if relevant.
+- If the question involves a medical condition, include potential next steps a person might consider, such as consulting a specialist.
 
-Start the answer directly. No small talk please.
+Context: {context}  
+Question: {question}  
+
+Begin your answer concisely but provide enough detail for clarity.
 """
 
 def set_custom_prompt(custom_prompt_template):

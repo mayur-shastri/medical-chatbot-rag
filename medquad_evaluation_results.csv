@@ -1,0 +1,525 @@
+ROUGE-1,ROUGE-L,BLEU,F1,Cosine Similarity,Query,Expected Answer,Generated Answer
+0.2033898305084746,0.11864406779661017,2.4713942682615365e-155,0.13793102963139137,0.6354801907795012,Who is at risk for Lymphocytic Choriomeningitis (LCM)? ?,"LCMV infections can occur after exposure to fresh urine, droppings, saliva, or nesting materials from infected rodents.  Transmission may also occur when these materials are directly introduced into broken skin, the nose, the eyes, or the mouth, or presumably, via the bite of an infected rodent. Person-to-person transmission has not been reported, with the exception of vertical transmission from infected mother to fetus, and rarely, through organ transplantation.","
+People at risk for Lymphocytic Choriomeningitis (LCM) are those who come into contact with infected rodents or their urine, droppings, or saliva. This includes individuals who work in laboratories that handle rodents, people living in urban areas with high rodent populations, and those who have rodents as pets."
+0.15085158150851583,0.09245742092457422,2.6366278188372206e-158,0.09313725309412248,0.6499062883662268,What are the symptoms of Lymphocytic Choriomeningitis (LCM) ?,"LCMV is most commonly recognized as causing neurological disease, as its name implies, though infection without symptoms or mild febrile illnesses are more common clinical manifestations. 
+                
+For infected persons who do become ill, onset of symptoms usually occurs 8-13 days after exposure to the virus as part of a biphasic febrile illness. This initial phase, which may last as long as a week, typically begins with any or all of the following symptoms: fever, malaise, lack of appetite, muscle aches, headache, nausea, and vomiting. Other symptoms appearing less frequently include sore throat, cough, joint pain, chest pain, testicular pain, and parotid (salivary gland) pain. 
+                
+Following a few days of recovery, a second phase of illness may occur. Symptoms may consist of meningitis (fever, headache, stiff neck, etc.), encephalitis (drowsiness, confusion, sensory disturbances, and/or motor abnormalities, such as paralysis), or meningoencephalitis (inflammation of both the brain and meninges). LCMV has also been known to cause acute hydrocephalus (increased fluid on the brain), which often requires surgical shunting to relieve increased intracranial pressure. In rare instances, infection results in myelitis (inflammation of the spinal cord) and presents with symptoms such as muscle weakness, paralysis, or changes in body sensation. An association between LCMV infection and myocarditis (inflammation of the heart muscles) has been suggested. 
+                
+Previous observations show that most patients who develop aseptic meningitis or encephalitis due to LCMV survive. No chronic infection has been described in humans, and after the acute phase of illness, the virus is cleared from the body. However, as in all infections of the central nervous system, particularly encephalitis, temporary or permanent neurological damage is possible. Nerve deafness and arthritis have been reported. 
+                
+Women who become infected with LCMV during pregnancy may pass the infection on to the fetus. Infections occurring during the first trimester may result in fetal death and pregnancy termination, while in the second and third trimesters, birth defects can develop. Infants infected In utero can have many serious and permanent birth defects, including vision problems, mental retardation, and hydrocephaly (water on the brain). Pregnant women may recall a flu-like illness during pregnancy, or may not recall any illness. 
+                
+LCM is usually not fatal. In general, mortality is less than 1%.","
+Lymphocytic Choriomeningitis (LCM) is a viral disease. Symptoms of LCM may include fever, headache, and neck stiffness. Other symptoms can include tiredness, muscle aches, and a skin rash. However, LCM is often asymptomatic and may not cause any symptoms at all."
+0.31446540880503143,0.1509433962264151,0.03349389372447009,0.2389937064768008,0.6371261654306418,Who is at risk for Lymphocytic Choriomeningitis (LCM)? ?,"Individuals of all ages who come into contact with urine, feces, saliva, or blood of wild mice are potentially at risk for infection. Owners of pet mice or hamsters may be at risk for infection if these animals originate from colonies that were contaminated with LCMV, or if their animals are infected from other wild mice. Human fetuses are at risk of acquiring infection vertically from an infected mother. 
+                
+Laboratory workers who work with the virus or handle infected animals are also at risk. However, this risk can be minimized by utilizing animals from sources that regularly test for the virus, wearing proper protective laboratory gear, and following appropriate safety precautions.","
+People at risk for Lymphocytic Choriomeningitis (LCM) are those who come into contact with infected rodents or their urine, droppings, or saliva. This includes individuals who work in laboratories that handle rodents, people living in urban areas with high rodent populations, and those who have rodents as pets."
+0.31527093596059114,0.16748768472906406,1.2161195488256694e-78,0.16831682672287046,0.5174242600336224,How to diagnose Lymphocytic Choriomeningitis (LCM) ?,"During the first phase of the disease, the most common laboratory abnormalities are a low white blood cell count (leukopenia) and a low platelet count (thrombocytopenia). Liver enzymes in the serum may also be mildly elevated. After the onset of neurological disease during the second phase, an increase in protein levels, an increase in the number of white blood cells or a decrease in the glucose levels in the cerebrospinal fluid (CSF) is usually found. 
+   
+Laboratory diagnosis is usually made by detecting IgM and IgG antibodies in the CSF and serum. Virus can be detected by PCR or virus isolation in the CSF at during the acute stage of illness.","
+Diagnosis of Lymphocytic Choriomeningitis (LCM) typically involves a combination of clinical symptoms, laboratory tests, and imaging studies. The symptoms of LCM can be similar to other viral infections, so a definitive diagnosis may require specific tests such as serology (detection of antibodies to the LCM virus in the blood), PCR (polymerase chain reaction) to detect the virus's genetic material, or cerebrospinal fluid analysis to rule out other causes of meningitis. Imaging studies such as MRI or CT scans may also be used to visualize any potential inflammation or lesions in the brain."
+0.07792207792207792,0.07792207792207792,4.311705577488554e-233,0.026315786305402045,0.4902552226119286,What are the treatments for Lymphocytic Choriomeningitis (LCM) ?,"Aseptic meningitis, encephalitis, or meningoencephalitis requires hospitalization and supportive treatment based on severity. Anti-inflammatory drugs, such as corticosteroids, may be considered under specific circumstances. Although studies have shown that ribavirin, a drug used to treat several other viral diseases, is effective against LCMV in vitro, there is no established evidence to support its routine use for treatment of LCM in humans.","
+The given context does not provide any information about the treatments for Lymphocytic Choriomeningitis (LCM)."
+0.111358574610245,0.062360801781737196,2.950704413506133e-81,0.06194690051736635,0.5507073141771051,How to prevent Lymphocytic Choriomeningitis (LCM) ?,"LCMV infection can be prevented by avoiding contact with wild mice and taking precautions when handling pet rodents (i.e. mice, hamsters, or guinea pigs). 
+                
+Rarely, pet rodents may become infected with LCMV from wild rodents. Breeders, pet stores, and pet owners should take measures to prevent infestations of wild rodents. Pet rodents should not come into contact with wild rodents. If you have a pet rodent, wash your hands with soap and water (or waterless alcohol-based hand rubs when soap is not available and hands are not visibly soiled) after handling rodents or their cages and bedding. 
+                
+If you have a rodent infestation in and around your home, take the following precautions to reduce the risk of LCMV infection: 
+ 
+ - Seal up rodent entry holes or gaps with steel wool, lath metal, or caulk. 
+ - Trap rats and mice by using an appropriate snap trap. 
+ - Clean up rodent food sources and nesting sites and take precautions when cleaning rodent-infected areas: 
+   
+   - Use cross-ventilation when entering a previously unventilated enclosed room or dwelling prior to cleanup. 
+   - Put on rubber, latex, vinyl or nitrile gloves. 
+   - Do not stir up dust by vacuuming, sweeping, or any other means. 
+   - Thoroughly wet contaminated areas with a bleach solution or household disinfectant. 
+   - Hypochlorite (bleach) solution: Mix 1 and 1/2 cups of household bleach in 1 gallon of water. 
+   - Once everything is wet, take up contaminated materials with damp towel and then mop or sponge the area with bleach solution or household disinfectant. 
+   - Spray dead rodents with disinfectant and then double-bag along with all cleaning materials and throw bag out in an appropriate waste disposal system. 
+   - Remove the gloves and thoroughly wash your hands with soap and water (or waterless alcohol-based hand rubs when soap is not available and hands are not visibly soiled). 
+    
+ 
+                
+The geographic distributions of the rodent hosts are widespread both domestically and abroad. However, infrequent recognition and diagnosis, and historic underreporting of LCM, have limited scientists' ability to estimate incidence rates and prevalence of disease among humans. Understanding the epidemiology of LCM and LCMV infections will help to further delineate risk factors for infection and develop effective preventive strategies. Increasing physician awareness will improve disease recognition and reporting, which may lead to better characterization of the natural history and the underlying immunopathological mechanisms of disease, and stimulate future therapeutic research and development.","
+To prevent Lymphocytic Choriomeningitis (LCM), it is important to eliminate factors that increase the risk of infection. However, the context provided does not discuss Lymphocytic Choriomeningitis (LCM), so I'm unable to provide specific prevention methods for this condition. I recommend consulting a healthcare professional or a reliable medical source for accurate information on LCM prevention."
+0.26666666666666666,0.13333333333333333,3.4812749726957965e-155,0.2022471861532636,0.7213862094371158,What is (are) Parasites - Cysticercosis ?,"Cysticercosis is an infection caused by the larvae of the parasite Taenia solium.  This infection occurs after a person swallows tapeworm eggs. The larvae get into tissues such as muscle and brain, and form cysts there (these are called cysticerci). When cysts are found in the brain, the condition is called neurocysticercosis.","Parasites are organisms that live in another body, called the host, and get food and liquids from that host. Cysticercosis is not mentioned in the provided context, so I don't have enough information to answer this question."
+0.03550295857988166,0.03550295857988166,5.416234022260184e-242,0.03550295784023671,0.4002732038063932,Who is at risk for Parasites - Cysticercosis? ?,"Cysticercosis is an infection caused by the larvae of the tapeworm, Taenia solium. A person with an adult tapeworm, which lives in the person’s gut, sheds eggs in the stool.  The infection with the adult tapeworm is called taeniasis.  A pig then eats the eggs in the stool.  The eggs develop into larvae inside the pig and form cysts (called cysticerci) in the pig's muscles or other tissues. The infection with the cysts is called cysticercosis. Humans who eat undercooked or raw infected pork swallow the cysts in the meat. The larvae then come out of their cysts in the human gut and develop into adult tapeworms, completing the cycle.
+    
+People get cysticercosis when they swallow eggs that are excreted in the stool of people with the adult tapeworm. This may happen when people
+    
+     - Drink water or eat food contaminated with tapeworm eggs
+     - Put contaminated fingers in their mouth
+    
+    
+Cysticercosis is not spread by eating undercooked meat. However, people get infected with tapeworms (taeniasis) by eating undercooked infected pork. People who have tapeworm infections can infect themselves with the eggs and develop cysticercosis (this is called autoinfection). They can also infect other people if they have poor hygiene and contaminate food or water that other people swallow. People who live with someone who has a tapeworm infection in their intestines have a much higher risk of getting cysticercosis than other people.
+    
+Human cysticercosis is found worldwide, especially in areas where pig cysticercosis is common. Both taeniasis and cysticercosis are most often found in rural areas of developing countries with poor sanitation, where pigs roam freely and eat human feces. Taeniasis and cysticercosis are rare among persons who live in countries where pigs are not raised and in countries where pigs do not have contact with human feces. Although uncommon, cysticercosis can occur in people who have never traveled outside of the United States if they are exposed to tapeworm eggs.
+    
+More on: Taeniasis","
+The text does not provide information about who is at risk for Cysticercosis."
+0.2,0.11578947368421053,2.3168497878316306e-155,0.11640211147616271,0.7955538374953746,How to diagnose Parasites - Cysticercosis ?,"If you think that you may have cysticercosis, please see your health care provider. Your health care provider will ask you about your symptoms, where you have travelled, and what kinds of foods you eat. The diagnosis of neurocysticercosis usually requires MRI or CT brain scans. Blood tests may be useful to help diagnose an infection, but they may not always be positive in light infections.
+  
+If you have been diagnosed with cysticercosis, you and your family members should be tested for intestinal tapeworm infection. See the taeniasis section for more information on intestinal tapeworm infections.  
+  
+More on: Taeniasis
+  
+More on: Resources for Health Professionals: Diagnosis","
+Diagnosis of Cysticercosis can be done by detecting the parasite itself, either the cysticerci (the larval form of Taenia solium). This can be done through various methods such as:
+
+1. Imaging tests like CT scans, MRI, or X-rays to visualize the cysticerci in various organs.
+2. Blood tests to detect antibodies against the parasite.
+3. Stool examination to detect eggs of the parasite if it has migrated to the intestines.
+4. Tissue biopsy from the affected organ to confirm the presence of cysticerci."
+0.21153846153846154,0.09615384615384615,1.1694993466360983e-231,0.19417475228579523,0.7234170444321727,What are the treatments for Parasites - Cysticercosis ?,"Some people with cysticercosis do not need to be treated. There are medications available to treat cysticercosis for those who do need treatment. Sometimes surgery may be needed. Your doctor will advise you on which treatment is best for you.
+    
+More on: Resources for Health Professionals: Treatment
+    
+More on: Taeniasis","
+Treatment for Parasites - Cysticercosis depends on the size and location of cysts, as well as the symptoms they are producing. Surgical removal of cysts and/or surrounding tissue is the accepted treatment. Treatment with anti-parasitic medications before aspiration is reported to decrease allergic complications and decrease the risk of spread during the procedure."
+0.29687500000000006,0.1328125,2.952037035897609e-155,0.16030533852572712,0.7122932395898639,How to prevent Parasites - Cysticercosis ?,"To prevent cysticercosis, the following precautions should be taken:
+    
+     - Wash your hands with soap and warm water after using the toilet, changing diapers, and before handling food
+     - Teach children the importance of washing hands to prevent infection
+     - Wash and peel all raw vegetables and fruits before eating
+     - Use good food and water safety practices while traveling in developing countries such as: 
+      
+       - Drink only bottled or boiled (1 minute) water or carbonated (bubbly) drinks in cans or bottles
+       - Filter unsafe water through an ""absolute 1 micron or less"" filter AND dissolve iodine tablets in the filtered water; ""absolute 1 micron"" filters can be found in camping and outdoor supply stores
+      
+    
+    
+More on: Handwashing
+    
+More on: Food and Water Safety","
+The prevention of parasitic infestations, such as cysticercosis, cannot be guaranteed, but there are precautions that can be taken to reduce the risk of infection. These precautions include:
+
+1. Avoiding contact with pigs, especially wild ones, as pigs are the primary hosts for the tapeworm that causes cysticercosis.
+2. Properly cooking pork and other meat to ensure that any tapeworm larvae are killed.
+3. Washing hands and any cut or wound thoroughly after contact with soil or water that may be contaminated with feces from pigs or other animals.
+4. Avoiding eating undercooked or raw meat, especially pork, as this can lead to the ingestion of tapeworm larvae.
+5. Wearing gloves and using proper hygiene when handling raw meat.
+6. If you live in an area where cysticercosis is common, consider seeking medical advice about taking preventive medication."
+0.41379310344827586,0.24137931034482757,6.838512701093439e-232,0.10714285245535735,0.7251571937907264,What is (are) Parasites - Trichuriasis (also known as Whipworm Infection) ?,Whipworm (Trichuris trichiura) is an intestinal parasite of humans. The larvae and adult worms live in the intestine of humans and can cause intestinal disease. The name is derived from the worm’s distinctive whip-like shape.,"
+Trichuriasis is a type of parasitic infection caused by the round worm Trichuris trichiura. It is one of the filarial worms."
+0.10619469026548672,0.07079646017699115,1.3687135142540436e-233,0.07207206947812687,0.6813605259428994,Who is at risk for Parasites - Trichuriasis (also known as Whipworm Infection)? ?,"Whipworm is a soil-transmitted helminth (STH) and is the third most common roundworm of humans. Whipworm causes an infection called trichuriasis and often occurs in areas where human feces is used as fertilizer or where defecation onto soil happens. The worms are spread from person to person by fecal-oral transmission or through feces-contaminated food.
+    Geographic Distribution
+Worldwide, infection occurs more frequently in areas with tropical weather and poor sanitation practices, and among children. In 2002, the estimated number of persons infected with whipworm was 1 billion. Trichuriasis also occurs in the southern United States.","
+People of any age can be at risk for Parasites - Trichuriasis (also known as Whipworm Infection)."
+0.2745098039215686,0.19607843137254904,4.667846963352425e-232,0.15686274065359493,0.48938412617888755,How to diagnose Parasites - Trichuriasis (also known as Whipworm Infection) ?,"The standard method for diagnosing the presence of whipworm is by microscopically identifying whipworm eggs in a stool sample. Because eggs may be difficult to find in light infections, a concentration procedure is recommended.","
+The condition of Trichuriasis can be diagnosed by microscopic inspection of feces which can reveal Trichuris eggs."
+0.3453237410071942,0.1726618705035971,1.1834868768719698e-231,0.15827337630764468,0.6985440965467247,What are the treatments for Parasites - Trichuriasis (also known as Whipworm Infection) ?,"Anthelminthic medications (drugs that rid the body of parasitic worms), such as albendazole and mebendazole, are the drugs of choice for treatment. Infections are generally treated for 3 days. The recommended medications are effective. Health care providers may decide to repeat a stool exam after treatment. Iron supplements may also be prescribed if the infected person suffers from anemia.
+    
+More on: Resources for Health Professionals: Treatment","The treatment for Trichuriasis (Whipworm Infection) is Mebendazole or Albenza. The dosage is 100 mg twice a day for three days. Another drug used is Ivermectin (Stromectol) with a single dose of 200 micrograms per kilogram of body weight. If the infection persists, a series of six treatments, each spaced two weeks apart, may be given. The drug Hetrazan is also used for filarial worms, but it is not specifically mentioned for Trichuriasis."
+0.3121387283236994,0.16184971098265896,2.2889135576102065e-155,0.13407820744046708,0.7413711084728659,How to prevent Parasites - Trichuriasis (also known as Whipworm Infection) ?,"The best way to prevent whipworm infection is to always:
+    
+     - Avoid ingesting soil that may be contaminated with human feces, including where human fecal matter (""night soil"") or wastewater is used to fertilize crops.
+     - Wash your hands with soap and warm water before handling food.
+     - Teach children the importance of washing hands to prevent infection.
+     - Wash, peel, or cook all raw vegetables and fruits before eating, particularly those that have been grown in soil that has been fertilized with manure.
+    
+    
+More on: Handwashing
+    
+Transmission of infection to others can be prevented by
+    
+     - Not defecating outdoors.
+     - Effective sewage disposal systems.","
+Prevention of Trichuriasis (Whipworm Infection) involves two main methods: taking DEC preventively, which has shown to be effective, and reducing the number of carrier insects in a particular area. Additionally, avoiding mosquito bites with insecticides and insect repellents is helpful, as is wearing protective clothing and using bed netting. It is also important to maintain good personal hygiene, such as washing hands regularly, especially after using the toilet, and avoiding contaminated food and water."
+0.14285714285714285,0.14285714285714285,5.531447452735428e-79,0.1428571389909298,0.7179955597564329,what are marine toxins?,"Marine toxins are naturally occurring chemicals that can contaminate certain seafood. The seafood contaminated with these chemicals frequently looks, smells, and tastes normal. When humans eat such seafood, disease can result.","
+Marine toxins are toxins produced by a group of algae (dinoflagellates)."
+0.35555555555555557,0.20740740740740743,1.047607487020197e-78,0.26666666196543215,0.7892920320625667,how can these diseases be diagnosed for Marine Toxins ?,"Diagnosis of marine toxin poisoning is generally based on symptoms and a history of recently eating a particular kind of seafood. Laboratory testing for the specific toxin in patient samples is generally not necessary because this requires special techniques and equipment available in only specialized laboratories. If suspect, leftover fish or shellfish are available, they can be tested for the presence of the toxin more easily. Identification of the specific toxin is not usually necessary for treating patients because there is no specific treatment.","
+Marine Toxins such as PSP can be diagnosed based on symptoms after eating shellfish, even if the shellfish are adequately cooked. No blood or urine test is available to diagnose the illness, but tests in mice to detect the toxin from the eaten fish can be done by public health officials."
+0.1616161616161616,0.10101010101010102,1.0559271666610562e-231,0.14141413641465175,0.4510578035921753,how can these diseases be treated for Marine Toxins ?,"Other than supportive care there are few specific treatments for ciguatera poisoning, paralytic shellfish poisoning, neurotoxic shellfish poisoning, or amnesic shellfish poisoning. Antihistamines and epinephrine, however, may sometimes be useful in treating the symptoms of scombrotoxic fish poisoning. Intravenous mannitol has been suggested for the treatment of severe ciguatera poisoning.","These diseases caused by marine toxins cannot be treated. The best course of action is prevention, such as boiling or purifying drinking water, avoiding raw or undercooked fish or salads made from fresh aquatic plants, and ensuring that all food eaten in areas with fluke infestations is cooked thoroughly."
+0.3333333333333333,0.1733333333333333,4.0698203202909086e-155,0.22818791451376075,0.5761685732333894,how common are these diseases for Marine Toxins ?,"Every year, approximately 30 cases of poisoning by marine toxins are reported in the United States. Because healthcare providers are not required to report these illnesses and because many milder cases are not diagnosed or reported, the actual number of poisonings may be much greater. Toxic seafood poisonings are more common in the summer than winter because dinoflagelates grow well in warmer seasons. It is estimated from cases with available data that one person dies every 4 years from toxic seafood poisonings.","
+These diseases caused by marine toxins, such as PSP and ciguatera, are not uncommon. They occur in many regions, with PSP mostly happening from May through November, and ciguatera being commonly diagnosed on many islands in the Pacific Ocean. However, it's important to note that the prevalence of these diseases can vary greatly depending on factors like the location, season, and the specific species of seafood consumed."
+0.0,0.0,0.0,0.0,0.5341203984361108,what can i do to prevent poisoning by marine toxins?,General guidelines for safe seafood consumption:,"
+To prevent poisoning by marine toxins, you should avoid consuming raw or undercooked fish or salads made from fresh aquatic plants, especially in areas with fluke infestations. It is important to cook all food thoroughly. Pickling or smoking will not kill fluke cysts in fish or shellfish. Additionally, you can control or eradicate the snails that serve as the flukes’ intermediate hosts."
+0.3571428571428571,0.14285714285714288,0.09528272893613618,0.16766466568037594,0.6663512053825698,what is the government doing about these diseases for Marine Toxins ?,"Some health departments test shellfish harvested within their jurisdiction to monitor the level of dinoflagellate toxins and asses the risk for contamination. Based on the results of such testing, recreational and commercial seafood harvesting may be prohibited locally during periods of risk. State and federal regulatory agencies monitor reported cases of marine toxin poisoning, and health departments investigate possible outbreaks and devise control measures. The Centers for Disease Control and Prevention (CDC) provides support to investigators as needed.","
+The Centers for Disease Control and Prevention (CDC) is an organization that is taking action against marine toxins. They have measures in place to control Paralytic Shellfish Poisoning (PSP), which is a disease caused by marine toxins. These measures include periodic microscopic examination of coastal waters to detect rising numbers of algae, and closing shellfish beds when levels of the toxin-producing organisms are above acceptable standards. They also advise that cooking the shellfish does not prevent this disease, and they encourage reporting of suspected cases to public health officials."
+0.12598425196850394,0.06299212598425197,5.842551313791868e-232,0.09374999527465844,0.6821832425118052,what else can be done to prevent these diseases for Marine Toxins ?,"It is important to notify public health departments about even one person with marine toxin poisoning. Public health departments can then investigate to determine if a restaurant, oyster bed, or fishing area has a problem. This prevents other illnesses. In any food poisoning occurrence, consumers should note foods eaten and freeze any uneaten portions in case they need to be tested. A commercial test has been developed in Hawaii to allow persons to test sport caught fish for ciguatoxins.","
+• Regular monitoring of coastal waters for the presence of toxin-producing algae (dinoflagellates) to detect rising numbers and close shellfish beds when levels of the toxin are above acceptable standards.
+• Cooking the shellfish does not prevent these diseases, so avoiding consumption of raw or undercooked shellfish is necessary."
+0.2772277227722772,0.15841584158415842,2.9258769557980527e-232,0.19999999596800008,0.6599261498995913,What is (are) Yellow Fever Vaccination ?,"If you continue to live or travel in yellow fever-endemic areas, you should receive a booster dose of yellow fever vaccine after 10 years.
+                
+After receiving the vaccine, you should receive an International Certificate of Vaccination (yellow card) that has been validated by the vaccination center. This Certificate becomes valid 10 days after vaccination and lasts for 10 years. You will need this card as proof of vaccination to enter certain countries.","
+Yellow Fever Vaccination is a vaccination against the virus that causes yellow fever. It is not mentioned in the context if it is available for animals or not."
+0.30769230769230765,0.1346153846153846,1.5467862341916477e-78,0.24999999502958586,0.7566299492261642,What is (are) Parasites - Schistosomiasis ?,"Schistosomiasis, also known as bilharzia, is a disease caused by parasitic worms. Infection with Schistosoma mansoni, S. haematobium, and S. japonicum causes illness in humans; less commonly, S. mekongi and S. intercalatum can cause disease. Although the worms that cause schistosomiasis are not found in the United States, more than 200 million people are infected worldwide.","
+Parasites are organisms that live on or inside an animal of a different species and feed on it or draw nutrients from it. However, the term is not specifically mentioned in the context provided regarding Schistosomiasis. Schistosomiasis is a parasitic disease caused by flatworms of the genus Schistosoma."
+0.28464419475655434,0.15730337078651685,7.450909186733987e-80,0.18909090625692562,0.787537649157176,Who is at risk for Parasites - Schistosomiasis? ?,"Schistosomiasis is an important cause of disease in many parts of the world, most commonly in places with poor sanitation. School-age children who live in these areas are often most at risk because they tend to spend time swimming or bathing in water containing infectious cercariae.
+If you live in, or travel to, areas where schistosomiasis is found and are exposed to contaminated freshwater, you are at risk.
+   
+Areas where human schistosomiasis is found include:
+   
+    - Schistosoma mansoni 
+     
+      - distributed throughout Africa: There is risk of infection in freshwater in southern and sub-Saharan Africa–including the great lakes and rivers as well as smaller bodies of water. Transmission also occurs in the Nile River valley in Sudan and Egypt
+      - South America: including Brazil, Suriname, Venezuela
+      - Caribbean (risk is low): Dominican Republic, Guadeloupe, Martinique, and Saint Lucia.
+     
+    - S. haematobium 
+     
+      - distributed throughout Africa: There is risk of infection in freshwater in southern and sub-Saharan Africa–including the great lakes and rivers as well as smaller bodies of water. Transmission also occurs in the Nile River valley in Egypt and the Mahgreb region of North Africa.
+      - found in areas of the Middle East
+     
+    - S. japonicum 
+     
+      - found in Indonesia and parts of China and Southeast Asia
+     
+    - S. mekongi 
+     
+      - found in Cambodia and Laos
+     
+    - S. intercalatum 
+     
+      - found in parts of Central and West Africa.","
+People at risk for Schistosomiasis are those who live in or travel to areas where the parasite is common, such as parts of Africa, South America, the Caribbean, the Middle East, and Southeast Asia. These people are often exposed to contaminated water while bathing, swimming, or working."
+0.3511450381679389,0.183206106870229,4.289956098022654e-155,0.21538461042721904,0.6959601343961891,How to diagnose Parasites - Schistosomiasis ?,"Stool or urine samples can be examined microscopically for parasite eggs (stool for S. mansoni or S. japonicum eggs and urine for S. haematobium eggs). The eggs tend to be passed intermittently and in small amounts and may not be detected, so it may be necessary to perform a blood (serologic) test.
+    
+More on: Resources for Health Professionals: Diagnosis","
+Diagnosis of Schistosomiasis can be made by detecting the parasite itself, either the adult worms or the microfilariae. Microscopic examination of the person’s urine or feces may reveal microfilariae. However, many times, people who have been infected for a long time do not have microfilariae in their urine or feces. In these cases, other diagnostic tests such as blood tests, imaging studies, or biopsy may be required to confirm the diagnosis."
+0.27848101265822783,0.17721518987341775,1.1783324442592282e-231,0.20512820013149255,0.766250847980562,What are the treatments for Parasites - Schistosomiasis ?,"Safe and effective medication is available for treatment of both urinary and intestinal schistosomiasis. Praziquantel, a prescription medication, is taken for 1-2 days to treat infections caused by all Schistosoma species.
+    
+More on: Resources for Health Professionals: Treatment","
+The treatment for Schistosomiasis includes:
+1. Praziquantel, which is a drug that kills the parasites.
+2. Antihistamines like diphenhydramine (Benadryl) may help to shorten the duration of the illness.
+3. In rare, more severe cases, epinephrine (adrenaline) may be used."
+0.277264325323475,0.12199630314232901,1.359017041745705e-79,0.11594202554216562,0.6410553739072252,How to prevent Parasites - Schistosomiasis ?,"Prevention
+    
+No vaccine is available.
+    
+The best way to prevent schistosomiasis is to take the following steps if you are visiting or live in an area where schistosomiasis is transmitted:
+    
+     - Avoid swimming or wading in freshwater when you are in countries in which schistosomiasis occurs. Swimming in the ocean and in chlorinated swimming pools is safe.
+     - Drink safe water. Although schistosomiasis is not transmitted by swallowing contaminated water, if your mouth or lips come in contact with water containing the parasites, you could become infected. Because water coming directly from canals, lakes, rivers, streams, or springs may be contaminated with a variety of infectious organisms, you should either bring your water to a rolling boil for 1 minute or filter water before drinking it. Bring your water to a rolling boil for at least 1 minute will kill any harmful parasites, bacteria, or viruses present. Iodine treatment alone WILL NOT GUARANTEE that water is safe and free of all parasites.
+     - Water used for bathing should be brought to a rolling boil for 1 minute to kill any cercariae, and then cooled before bathing to avoid scalding. Water held in a storage tank for at least 1 - 2 days should be safe for bathing.
+     - Vigorous towel drying after an accidental, very brief water exposure may help to prevent the Schistosoma parasite from penetrating the skin. However, do not rely on vigorous towel drying alone to prevent schistosomiasis.
+    
+    
+Those who have had contact with potentially contaminated water overseas should see their health care provider after returning from travel to discuss testing.
+    
+More on: Schistosomiasis in Travelers
+   
+  
+  
+   Control
+   
+In countries where schistosomiasis causes significant disease, control efforts usually focus on:
+   
+    - reducing the number of infections in people and/or
+    - eliminating the snails that are required to maintain the parasite’s life cycle.
+   
+   
+For all species that cause schistosomiasis, improved sanitation could reduce or eliminate transmission of this disease. In some areas with lower transmission levels, elimination of schistosomiasis is considered a ""winnable battle"" by public health officials.
+   
+Control measures can include mass drug treatment of entire communities and targeted treatment of school-age children. Some of the problems with control of schistosomiasis include:
+   
+    - Chemicals used to eliminate snails in freshwater sources may harm other species of animals in the water and, if treatment is not sustained, the snails may return to those sites afterwards.
+    - For certain species of the parasite, such as S. japonicum, animals such as cows or water buffalo can also be infected. Runoff from pastures (if the cows are infected) can contaminate freshwater sources.","
+To prevent Schistosomiasis, the best method is to prevent being repeatedly bitten by the snails that carry the disease. Some methods of preventing snail bites include the following:
+
+* Avoiding water sources where the snails live, such as rivers, lakes, and ponds, especially during the day when the snails are most active.
+* Wearing protective clothing that covers the skin, such as long sleeves and long pants, when in water.
+* Using a chemical barrier, such as a lotion or cream, to protect the skin from snail bites.
+* Maintaining proper hand washing techniques and hygiene to reduce the risk of infection.
+* In some cases, medical interventions may be necessary to control the spread of the disease in a particular area."
+0.4731182795698925,0.23655913978494625,1.9749364666066906e-78,0.3225806401664933,0.6743836368886273,What is (are) Parasites - Lice - Head Lice ?,"The head louse, or Pediculus humanus capitis, is a parasitic insect that can be found on the head, eyebrows, and eyelashes of people. Head lice feed on human blood several times a day and live close to the human scalp. Head lice are not known to spread disease.","Parasites are organisms that live on or inside an animal of a different species and feed on it or draw nutrients from it. Lice, specifically head lice, are a type of parasitic insect that infest the human scalp and feed on blood from the host."
+0.07547169811320753,0.0628930817610063,6.548151357049116e-159,0.06269592311199776,0.5670617740088348,Who is at risk for Parasites - Lice - Head Lice? ?,"In the United States, infestation with head lice (Pediculus humanus capitis) is most common among preschool- and elementary school-age children and their household members and caretakers. Head lice are not known to transmit disease; however, secondary bacterial infection of the skin resulting from scratching can occur with any lice infestation.
+    
+Getting head lice is not related to cleanliness of the person or his or her environment.
+    
+Head lice are mainly spread by direct contact with the hair of an infested person. The most common way to get head lice is by head-to-head contact with a person who already has head lice. Such contact can be common among children during play at:
+    
+     - school,
+     - home, and
+     - elsewhere (e.g., sports activities, playgrounds, camp, and slumber parties).
+    
+    
+Uncommonly, transmission may occur by:
+    
+     - wearing clothing, such as hats, scarves, coats, sports uniforms, or hair ribbons worn by an infested person;
+     - using infested combs, brushes or towels; or
+     - lying on a bed, couch, pillow, carpet, or stuffed animal that has recently been in contact with an infested person.
+    
+    
+Reliable data on how many people get head lice each year in the United States are not available; however, an estimated 6 million to 12 million infestations occur each year in the United States among children 3 to 11 years of age. Some studies suggest that girls get head lice more often than boys, probably due to more frequent head-to-head contact.
+    
+In the United States, infestation with head lice is much less common among African-Americans than among persons of other races. The head louse found most frequently in the United States may have claws that are better adapted for grasping the shape and width of some types of hair but not others.","
+The context does not provide information about who is at risk for parasites - lice - head lice. The information provided is only about hookworms and cutaneous larvae migrans."
+0.26515151515151514,0.17424242424242425,5.723789789206953e-80,0.14339622359558565,0.8221026835781817,How to diagnose Parasites - Lice - Head Lice ?,"Misdiagnosis of head lice infestation is common. The diagnosis of head lice infestation is best made by finding a live nymph or adult louse on the scalp or hair of a person.
+    
+Because adult and nymph lice are very small, move quickly, and avoid light, they may be difficult to find. Use of a fine-toothed louse comb may facilitate identification of live lice.
+    
+If crawling lice are not seen, finding nits attached firmly within ¼ inch of the base of hair shafts suggests, but does not confirm, the person is infested. Nits frequently are seen on hair behind the ears and near the back of the neck. Nits that are attached more than ¼ inch from the base of the hair shaft are almost always non-viable (hatched or dead). Head lice and nits can be visible with the naked eye, although use of a magnifying lens may be necessary to find crawling lice or to identify a developing nymph inside a viable nit. Nits are often confused with other particles found in hair such as dandruff, hair spray droplets, and dirt particles.
+    
+If no nymphs or adults are seen, and the only nits found are more than ¼ inch from the scalp, then the infestation is probably old and no longer active — and does not need to be treated.","
+Diagnosis of head lice can be done by visual inspection of the scalp and hair. Common signs include itchiness and the presence of nits (lice eggs) or live lice on the hair shaft. A fine-toothed comb can be used to help detect lice and nits."
+0.038598273235144746,0.03047232097511427,1.1443006348803778e-94,0.023699123670654222,0.6955562412598527,What are the treatments for Parasites - Lice - Head Lice ?,"General Guidelines 
+   
+Treatment for head lice is recommended for persons diagnosed with an active infestation. All household members and other close contacts should be checked; those persons with evidence of an active infestation should be treated. Some experts believe prophylactic treatment is prudent for persons who share the same bed with actively-infested individuals. All infested persons (household members and close contacts) and their bedmates should be treated at the same time. 
+   
+Some pediculicides (medicines that kill lice) have an ovicidal effect (kill eggs). For pediculicides that are only weakly ovicidal or not ovicidal, routine retreatment is recommended. For those that are more strongly ovicidal, retreatment is recommended only if live (crawling) lice are still present several days after treatment (see recommendation for each medication). To be most effective, retreatment should occur after all eggs have hatched but before new eggs are produced. 
+   
+When treating head lice, supplemental measures can be combined with recommended medicine (pharmacologic treatment); however, such additional (non-pharmacologic) measures generally are not required to eliminate a head lice infestation. For example, hats, scarves, pillow cases, bedding, clothing, and towels worn or used by the infested person in the 2-day period just before treatment is started can be machine washed and dried using the hot water and hot air cycles because lice and eggs are killed by exposure for 5 minutes to temperatures greater than 53.5°C (128.3°F). Items that cannot be laundered may be dry-cleaned or sealed in a plastic bag for two weeks. Items such as hats, grooming aids, and towels that come in contact with the hair of an infested person should not be shared. Vacuuming furniture and floors can remove an infested person's hairs that might have viable nits attached. 
+     
+   
+Treatment of the infested person(s): Requires using an Over-the-counter (OTC) or prescription medication. Follow these treatment steps: 
+    
+    - Before applying treatment, it may be helpful to remove clothing that can become wet or stained during treatment. 
+    - Apply lice medicine, also called pediculicide, according to the instructions contained in the box or printed on the label. If the infested person has very long hair (longer than shoulder length), it may be necessary to use a second bottle. Pay special attention to instructions on the label or in the box regarding how long the medication should be left on the hair and how it should be washed out.
+ 
+       
+       
+        
+       
+       
+    - Have the infested person put on clean clothing after treatment. 
+    - If a few live lice are still found 8–12 hours after treatment, but are moving more slowly than before, do not retreat. The medicine may take longer to kill all the lice. Comb dead and any remaining live lice out of the hair using a fine–toothed nit comb. 
+    - If, after 8–12 hours of treatment, no dead lice are found and lice seem as active as before, the medicine may not be working. Do not retreat until speaking with your health care provider; a different pediculicide may be necessary. If your health care provider recommends a different pediculicide, carefully follow the treatment instructions contained in the box or printed on the label. 
+    - Nit (head lice egg) combs, often found in lice medicine packages, should be used to comb nits and lice from the hair shaft. Many flea combs made for cats and dogs are also effective. 
+    - After each treatment, checking the hair and combing with a nit comb to remove nits and lice every 2–3 days may decrease the chance of self–reinfestation. Continue to check for 2–3 weeks to be sure all lice and nits are gone. Nit removal is not needed when treating with spinosad topical suspension. 
+    - Retreatment is meant to kill any surviving hatched lice before they produce new eggs. For some drugs, retreatment is recommended routinely about a week after the first treatment (7–9 days, depending on the drug) and for others only if crawling lice are seen during this period. Retreatment with lindane shampoo is not recommended. 
+    
+     
+   
+Supplemental Measures: Head lice do not survive long if they fall off a person and cannot feed. You don't need to spend a lot of time or money on housecleaning activities. Follow these steps to help avoid re–infestation by lice that have recently fallen off the hair or crawled onto clothing or furniture. 
+    
+    -  
+Machine wash and dry clothing, bed linens, and other items that the infested person wore or used during the 2 days before treatment using the hot water (130°F) laundry cycle and the high heat drying cycle. Clothing and items that are not washable can be dry–cleaned 
+OR 
+sealed in a plastic bag and stored for 2 weeks.  
+    - Soak combs and brushes in hot water (at least 130°F) for 5–10 minutes. 
+    - Vacuum the floor and furniture, particularly where the infested person sat or lay. However, the risk of getting infested by a louse that has fallen onto a rug or carpet or furniture is very low. Head lice survive less than 1–2 days if they fall off a person and cannot feed; nits cannot hatch and usually die within a week if they are not kept at the same temperature as that found close to the human scalp. Spending much time and money on housecleaning activities is not necessary to avoid reinfestation by lice or nits that may have fallen off the head or crawled onto furniture or clothing. 
+    - Do not use fumigant sprays; they can be toxic if inhaled or absorbed through the skin. 
+    
+   
+ 
+     
+   
+Prevent Reinfestation: 
+   
+More on: Prevention & Control 
+   
+ 
+     
+   Over-the-counter Medications 
+   
+Many head lice medications are available ""over-the-counter"" without a prescription at a local drug store or pharmacy. Each over-the-counter product approved by the FDA for the treatment of head lice contains one of the following active ingredients. If crawling lice are still seen after a full course of treatment contact your health care provider. 
+    
+    -  
+Pyrethrins combined with piperonyl butoxide;
+ Brand name products: A–200*, Pronto*, R&C*, Rid*, Triple X*, Licide* 
+Pyrethrins are naturally occurring pyrethroid extracts from the chrysanthemum flower. Pyrethrins are safe and effective when used as directed. Pyrethrins can only kill live lice, not unhatched eggs (nits). A second treatment is recommended 9 to 10 days after the first treatment to kill any newly hatched lice before they can produce new eggs. Pyrethrins generally should not be used by persons who are allergic to chrysanthemums or ragweed. Pyrethrin is approved for use on children 2 years of age and older.  
+    -  
+Permethrin lotion, 1%;
+ Brand name product: Nix*. 
+Permethrin is a synthetic pyrethroid similar to naturally occurring pyrethrins. Permethrin lotion 1% is approved by the FDA for the treatment of head lice. Permethrin is safe and effective when used as directed. Permethrin kills live lice but not unhatched eggs. Permethrin may continue to kill newly hatched lice for several days after treatment. A second treatment often is necessary on day 9 to kill any newly hatched lice before they can produce new eggs. Permethrin is approved for use on children 2 months of age and older.  
+    
+   
+ 
+     
+   Prescription Medications 
+   
+The following medications, in alphabetical order, approved by the U.S. Food and Drug Administration (FDA) for the treatment of head lice are available only by prescription. If crawling lice are still seen after a full course of treatment, contact your health care provider. 
+    
+    -  
+Benzyl alcohol lotion, 5%;
+ Brand name product: Ulesfia lotion* 
+Benzyl alcohol is an aromatic alcohol. Benzyl alcohol lotion, 5% has been approved by the FDA for the treatment of head lice and is considered safe and effective when used as directed. It kills lice but it is not ovicidal(i.e., does not kill lice eggs). A second treatment is needed 9 days after the first treatment to kill any newly hatched lice before they can produce new eggs. Benzyl alcohol lotion is intended for use on persons who are 6 months of age and older and its safety in persons aged more 60 years has not been established. It can be irritating to the skin.  
+    -  
+Ivermectin lotion, 0.5%;
+ Brand name product: Sklice* 
+Ivermectin lotion, 0.5% was approved by the FDA in 2012 for treatment of head lice in persons 6 months of age and older. It is not ovicidal, but appears to prevent nymphs (newly hatched lice) from surviving. It is effective in most patients when given as a single application on dry hair without nit combing. It should not be used for retreatment without talking to a healthcare provider. 
+Given as a tablet in mass drug administrations, oral ivermectin has been used extensively and safely for over two decades in many countries to treat filarial worm infections. Although not FDA-approved for the treatment of lice, ivermectin tablets given in a single oral dose of 200 micrograms/kg repeated in 10 days or 400 micrograms/kg repeated in 7 days has been shown effective against head lice. It should not be used in children weighing less than 15 kg or in pregnant women.   
+    -  
+Spinosad 0.9% topical suspension;
+ Brand name product: Natroba* 
+Spinosad is derived from soil bacteria. Spinosad topical suspension, 0.9%, was approved by the FDA in 2011. Since it kills live lice as well as unhatched eggs, retreatment is usually not needed. Nit combing is not required. Spinosad topical suspension is approved for the treatment of children 6 months of age and older. It is safe and effective when used as directed. Repeat treatment should be given only if live (crawling) lice are seen 7 days after the first treatment.  
+    
+   
+For second–line treatment only: 
+    
+    -  
+Lindane shampoo 1%;
+ Brand name products: None available 
+Lindane is an organochloride. The American Academy of Pediatrics (AAP) no longer recommends it as a pediculocide. Although lindane shampoo 1% is approved by the FDA for the treatment of head lice, it is not recommended as a first–line treatment. Overuse, misuse, or accidentally swallowing lindane can be toxic to the brain and other parts of the nervous system; its use should be restricted to patients for whom prior treatments have failed or who cannot tolerate other medications that pose less risk. Lindane should not be used to treat premature infants, persons with HIV, a seizure disorder, women who are pregnant or breast–feeding, persons who have very irritated skin or sores where the lindane will be applied, infants, children, the elderly, and persons who weigh less than 110 pounds. Retreatment should be avoided.  
+    
+   
+ 
+   
+When treating head lice 
+    
+    - Do not use extra amounts of any lice medication unless instructed to do so by your physician or pharmacist. The drugs used to treat lice are insecticides and can be dangerous if they are misused or overused. 
+    - All the medications listed above should be kept out of the eyes. If they get onto the eyes, they should be immediately flushed away. 
+    - Do not treat an infested person more than 2–3 times with the same medication if it does not seem to be working. This may be caused by using the medicine incorrectly or by resistance to the medicine. Always seek the advice of your health care provider if this should happen. He/she may recommend an alternative medication. 
+    - Do not use different head lice drugs at the same time unless instructed to do so by your physician or pharmacist. 
+    
+   
+ 
+   
+*Use of trade names is for identification purposes only and does not imply endorsement by the Public Health Service or by the U.S. Department of Health and Human Services.","
+The treatment for head lice infestation includes the use of medications such as ivermectin, albendazole, or diethylcarbamazine. These treatments help eliminate the lice by killing them or impairing their ability to reproduce. However, it's important to note that the context provided does not discuss treatments for head lice specifically."
+0.4313043478260869,0.1808695652173913,0.022921831994382795,0.18794325778412815,0.8486038210911087,How to prevent Parasites - Lice - Head Lice ?,"Head lice are spread most commonly by direct head-to-head (hair-to-hair) contact. However, much less frequently they are spread by sharing clothing or belongings onto which lice have crawled or nits attached to shed hairs may have fallen. The risk of getting infested by a louse that has fallen onto a carpet or furniture is very small. Head lice survive less than 1–2 days if they fall off a person and cannot feed; nits cannot hatch and usually die within a week if they are not kept at the same temperature as that found close to the scalp.
+    
+The following are steps that can be taken to help prevent and control the spread of head lice:
+    
+     - Avoid head-to-head (hair-to-hair) contact during play and other activities at home, school, and elsewhere (sports activities, playground, slumber parties, camp).
+     - Do not share clothing such as hats, scarves, coats, sports uniforms, hair ribbons, or barrettes.
+     - Do not share combs, brushes, or towels. Disinfest combs and brushes used by an infested person by soaking them in hot water (at least 130°F) for 5–10 minutes.
+     - Do not lie on beds, couches, pillows, carpets, or stuffed animals that have recently been in contact with an infested person.
+     - Machine wash and dry clothing, bed linens, and other items that an infested person wore or used during the 2 days before treatment using the hot water (130°F) laundry cycle and the high heat drying cycle. Clothing and items that are not washable can be dry-cleaned OR sealed in a plastic bag and stored for 2 weeks.
+     - Vacuum the floor and furniture, particularly where the infested person sat or lay. However, spending much time and money on housecleaning activities is not necessary to avoid reinfestation by lice or nits that may have fallen off the head or crawled onto furniture or clothing.
+     - Do not use fumigant sprays or fogs; they are not necessary to control head lice and can be toxic if inhaled or absorbed through the skin.
+    
+    
+To help control a head lice outbreak in a community, school, or camp, children can be taught to avoid activities that may spread head lice.","
+To prevent head lice infestation, some methods include:
+
+1. Avoiding head-to-head contact with someone who has lice.
+2. Not sharing personal items such as hats, combs, brushes, and towels that may have lice or their eggs on them.
+3. Keeping long hair tied up and away from the face.
+4. Using a fine-tooth comb to check for lice regularly, especially after spending time in environments where lice are common (like schools, playgrounds, or sleepovers).
+5. Washing bedding, clothing, and other items that may have come into contact with lice in hot water and drying them in a dryer using the highest heat setting.
+6. Using over-the-counter or prescription lice treatments if there is an infestation.
+7. Not sleeping on pillows or sharing pillows with someone who has lice.
+8. Not lying on bedding, furniture, or clothing that someone with lice has used unless it has been washed and dried using the methods mentioned above.
+9. Using a lice comb to remove nits (lice eggs) from the hair and scalp, and repeating the process daily for at least a week to ensure all eggs are removed.
+10. Avoiding close contact with someone who has lice until they have been treated and the infestation has been eliminated."
+0.1568627450980392,0.11764705882352941,6.985812041840067e-80,0.1437908467666283,0.7759191952503461,What is (are) Parasites - Lice - Body Lice ?,"Body lice are parasitic insects that live on clothing and bedding used by infested persons. Body lice frequently lay their eggs on or near the seams of clothing. Body lice must feed on blood and usually only move to the skin to feed. Body lice exist worldwide and infest people of all races. Body lice infestations can spread rapidly under crowded living conditions where hygiene is poor (the homeless, refugees, victims of war or natural disasters). In the United States, body lice infestations are found only in homeless transient populations who do not have access to bathing and regular changes of clean clothes. Infestation is unlikely to persist on anyone who bathes regularly and who has at least weekly access to freshly laundered clothing and bedding.","
+Parasites are organisms that live on or in another and take nourishment from that organism. However, the context does not provide information about body lice being parasites."
+0.14736842105263157,0.09473684210526316,3.742321240098204e-158,0.13541666480034723,0.7603536044708574,Who is at risk for Parasites - Lice - Body Lice? ?,"Body lice infestation is found worldwide but generally is limited to persons who live under conditions of crowding and poor hygiene who do not have access to regular bathing and changes of clean clothes, such as:
+    
+     - the homeless,
+     - refugees,
+     - survivors of war or natural disasters.
+    
+    
+Infestations can spread rapidly under such conditions. Body lice infestation can occur in people of all races.
+    
+Body lice are spread through direct contact with a person who has body lice or through contact with articles such as clothing, beds, bed linens, or towels that have been in contact with an infested person. However, in the United States, actual infestation with body lice tends to be occur only in homeless, transient persons who do not have access to regular bathing and changes of clean clothes.
+    
+Body lice can transmit disease. Epidemics of typhus and louse-borne relapsing fever have been caused by body lice (typically in areas where climate, poverty, and social customs or war and social upheaval prevent regular changes and laundering of clothing).","
+People who have close contact with infested individuals or live in overcrowded conditions are at risk for body lice infestation."
+0.3624161073825503,0.2550335570469799,1.4051143152484882e-78,0.1879194583631369,0.8607641600878905,How to diagnose Parasites - Lice - Body Lice ?,"Body lice infestation is diagnosed by finding eggs and crawling lice in the seams of clothing. Sometimes a body louse can be seen crawling or feeding on the skin.
+    
+Although body lice and nits can be large enough to be seen with the naked eye, a magnifying lens may be necessary to find crawling lice or eggs.","
+Diagnosis of body lice is typically done by visual inspection of the skin, clothing, and bedding for the presence of lice or their eggs (nits). The lice are tiny, wingless insects that are usually found in the seams and folds of clothing, particularly in areas where the clothing fits tightly against the body. Nits, on the other hand, are the eggs of lice and are usually found attached to the hair shafts. If you suspect you have body lice, it is important to consult a healthcare provider for proper diagnosis and treatment."
+0.38009049773755654,0.17194570135746604,2.8879484779102973e-155,0.21100916944827888,0.78361106845993,What are the treatments for Parasites - Lice - Body Lice ?,"A body lice infestation is treated by improving the personal hygiene of the infested person, including assuring a regular (at least weekly) change of clean clothes. Clothing, bedding, and towels used by the infested person should be laundered using hot water (at least 130°F) and machine dried using the hot cycle.
+    
+Sometimes the infested person also is treated with a pediculicide, a medicine that can kill lice; however, a pediculicide generally is not necessary if hygiene is maintained and items are laundered appropriately at least once a week. A pediculicide should be applied exactly as directed on the bottle or by your physician.
+    
+If you choose to treat, guidelines for the choice of the pediculicide are the same as for head lice.
+    
+More on: Head Lice Treatment","
+The treatment for a lice infestation, specifically body lice, includes the use of shampoos, creams, or lotions that contain ingredients like permethrin, pyrethrin, or malathion. These substances kill the lice and their eggs. In some cases, prescription medications like ivermectin may also be used. It's important to note that treating the person is not enough, as clothing and bedding also need to be washed in hot water and dried on high heat to kill any remaining lice and eggs. Regularly cleaning and disinfecting the living environment can also help prevent re-infestation."
+0.38372093023255816,0.1686046511627907,1.6052025657583e-78,0.16860464620081814,0.847063990157374,How to prevent Parasites - Lice - Body Lice ?,"Body lice are spread most commonly by direct contact with an infested person or an infested person’s clothing or bedding. Body lice usually infest persons who do not launder and change their clothes regularly.
+    
+The following are steps that can be taken to help prevent and control the spread of body lice:
+    
+     - Bathe regularly and change into properly laundered clothes at least once a week; launder infested clothing at least once a week.
+     - Machine wash and dry infested clothing and bedding using the hot water (at least 130°F) laundry cycle and the high heat drying cycle. Clothing and items that are not washable can be dry-cleaned OR sealed in a plastic bag and stored for 2 weeks.
+     - Do not share clothing, beds, bedding, and towels used by an infested person.
+     - Fumigation or dusting with chemical insecticides sometimes is necessary to control and prevent the spread of body lice for certain diseases (epidemic typhus).","
+To prevent body lice infestation, follow these steps:
+
+1. Keep clothes clean: Wash clothing, bedding, and towels regularly in hot water to kill lice and their eggs.
+2. Wear clean clothes: Wear clean clothes daily. Do not reuse clothes worn for several days without washing them.
+3. Avoid sharing clothes: Do not share clothing items with others, especially those who have body lice.
+4. Use insecticides: Treat clothing with insecticides, such as permethrin, to kill lice and their eggs.
+5. Keep personal hygiene: Maintain good personal hygiene, especially around the armpits and groin areas, where lice are most likely to live.
+6. Use protective clothing: Wear long-sleeved shirts and long pants to cover as much skin as possible.
+7. Avoid crowded conditions: Body lice are most common in crowded living conditions, so try to avoid them if possible.
+8. Check for lice: Regularly check your body for lice and their eggs, especially after spending time in crowded conditions or sleeping in unsanitary places.
+9. Seek medical help: If you find lice or their eggs, seek medical help immediately to get treatment and prevent the infestation from spreading."
+0.18960244648318045,0.11009174311926606,9.491276215825397e-157,0.11692307423507697,0.8245423578766459,How to prevent La Crosse Encephalitis ?,"There is no vaccine against La Crosse encephalitis virus (LACV). Reducing exposure to mosquito bites is the best defense against getting infected with LACV or other mosquito-borne viruses. There are several approaches you and your family can use to prevent and control mosquito-borne diseases. 
+ 
+ - Use repellent: When outdoors, use insect repellent containing DEET, picaridin, IR3535 or oil of lemon eucalyptus on exposed skin as well as on clothing (mosquitoes will bite through thin cloth). 
+   
+   - Permethrin is a repellent/insecticide that can be applied to clothing and will provide excellent protection through multiple washes. You can treat clothing yourself (always follow the directions on the package!) or purchase pre-treated clothing. For best protection it is still necessary to apply other repellent to exposed skin.  
+    
+ - Wear protective clothing: Wear long sleeves, pants and socks when weather permits. 
+ - Avoid peak biting hours: Avoid outdoor activity or use protective measures when mosquitoes are active (Aedes triseriatus mosquitoes are most active during daytime—from dawn until dusk). 
+ - Install and repair screens: Have secure, intact screens on windows and doors to keep mosquitoes out.  
+ - Keep mosquitoes from laying eggs near you: Mosquitoes can lay eggs even in small amounts of standing water. While Aedes triseriatus prefers treeholes, it will also lay eggs in artificial containers. You can fill treeholes in/around your yard with soil. Get rid of mosquito breeding sites by emptying standing water from flower pots, buckets, barrels, and tires. Change the water in pet dishes and replace the water in bird baths weekly. Drill holes in tire swings so water drains out. Empty children's wading pools and store on their side after use.  
+","
+The context does not provide information on how to prevent La Crosse Encephalitis. However, it is generally recommended to avoid mosquito bites to prevent many viral encephalitis, including La Crosse Encephalitis. This can be achieved by using mosquito repellents, wearing long-sleeved shirts and long pants, and staying indoors during peak mosquito hours."
+0.0,0.0,0.0,0.0,-0.013816842868316212,What is (are) Parasites - Toxocariasis (also known as Roundworm Infection) ?,"Frequently Asked Questions (FAQs)
+    
+    
+                
+    Fact Sheets","
+Toxocariasis is a parasitic infection caused by roundworms, specifically the species Toxocara canis or Toxocara cati. These roundworms are not nematodes but belong to the family Ascarididae. The infection is usually contracted by ingesting soil or objects contaminated with infected dog or cat feces. Symptoms vary widely, but can include fever, cough, rash, and in severe cases, damage to organs such as the eyes or brain."
+0.12698412698412698,0.07256235827664399,1.0495475477051371e-05,0.10478359746991768,0.6219349184198237,Who is at risk for Parasites - Toxocariasis (also known as Roundworm Infection)? ?,"Infected dogs and cats shed Toxocara eggs in their feces into the environment. Once in the environment, it takes 2 to 4 weeks for Toxocara larvae to develop and for the eggs to become infectious. Humans or other animals can be infected by accidentally ingesting Toxocara eggs. For example, humans can become infected if they work with dirt and accidentally ingest dirt containing Toxocara eggs. Although rare, people can be infected by eating undercooked or raw meat from an infected animal such as a lamb or rabbit. Because dogs and cats are frequently found where people live, there may be large numbers of infected eggs in the environment. Once in the body, the Toxocara eggs hatch and roundworm larvae can travel in the bloodstream to different parts of the body, including the liver, heart, lungs, brain, muscles, or eyes. Most infected people do not have any symptoms. However, in some people, the Toxocara larvae can cause damage to these tissues and organs. The symptoms of toxocariasis, the disease caused by these migrating larvae, include fever, coughing, inflammation of the liver, or eye problems.
+    
+A U.S. study in 1996 showed that 30% of dogs younger than 6 months deposit Toxocara eggs in their feces; other studies have shown that almost all puppies are born already infected with Toxocara canis. Research also suggests that 25% of all cats are infected with Toxocara cati. Infection rates are higher for dogs and cats that are left outside for more time and allowed to eat other animals. In humans, it has been found that almost 14% of the U.S. population has been infected with Toxocara. Globally, toxocariasis is found in many countries, and prevalence rates can reach as high as 40% or more in parts of the world. There are several factors that have been associated with higher rates of infection with Toxocara. People are more likely to be infected with Toxocara if they own a dog. Children and adolescents under the age of 20 are more likely to test positive for Toxocara infection. This may be because children are more likely to eat dirt and play in outdoor environments, such as sandboxes, where dog and cat feces can be found. This infection is more common in people living in poverty. Geographic location plays a role as well, because Toxocara is more prevalent in hot, humid regions where eggs are kept viable in the soil.","People of any age can be at risk for Toxocariasis (Roundworm Infection), but it is more common in children who may accidentally ingest soil or sand contaminated with roundworm eggs, and in people who have a weakened immune system."
+0.1904761904761905,0.1904761904761905,3.3190457030708374e-79,0.11111110717057207,0.7189083690965983,How to diagnose Parasites - Toxocariasis (also known as Roundworm Infection) ?,"If you think you or your child may have toxocariasis, you should see your health care provider to discuss the possibility of infection and, if necessary, to be examined. Toxocariasis can be difficult to diagnose because the symptoms of toxocariasis are similar to the symptoms of other infections. A blood test is available that looks for evidence of infection with Toxocara larvae. In addition to the blood test, diagnosis of toxocariasis includes identifying the presence of typical clinical signs of VT or OT and a history of exposure to cats and dogs.","
+The condition of Parasites - Toxocariasis can be diagnosed by microscopic inspection of feces which can reveal roundworm eggs. In addition, visual inspection of the skin would reveal tell-tale itchy red lines and blisters."
+0.3076923076923077,0.19230769230769232,1.182942744320225e-78,0.2330097040324254,0.6756575435915159,What are the treatments for Parasites - Toxocariasis (also known as Roundworm Infection) ?,"Visceral toxocariasis can be treated with antiparasitic drugs such as albendazole or mebendazole. Treatment of ocular toxocariasis is more difficult and usually consists of measures to prevent progressive damage to the eye.
+    
+More on: Resources For Health Professionals: Treatment","
+Treatment for Toxocariasis (Roundworm Infection) typically involves administering anti-parasitic medications to kill the worms. These medications may include albendazole or mebendazole. In severe cases, corticosteroids may also be used to reduce inflammation caused by the infection. However, the specific treatment may vary depending on the severity and location of the infection. It is important to consult a healthcare professional for proper diagnosis and treatment."
+0.1553398058252427,0.11003236245954694,0.0010400987879021872,0.1086261953552655,0.5886246193921273,How to prevent Parasites - Toxocariasis (also known as Roundworm Infection) ?,"Controlling Toxocara infection in dogs and cats will reduce the number of infectious eggs in the environment and reduce the risk of infection for people. Have your veterinarian treat your dogs and cats, especially young animals, regularly for worms. This is especially important if your pets spend time outdoors and may become infected again.
+    
+There are several things that you can do around your home to make you and your pets safer:
+    
+     - Clean your pet’s living area at least once a week. Feces should be either buried or bagged and disposed of in the trash. Wash your hands after handling pet waste.
+     - Do not allow children to play in areas that are soiled with pet or other animal feces and cover sandboxes when not in use to make sure that animals do not get inside and contaminate them.
+     - Wash your hands with soap and warm water after playing with your pets or other animals, after outdoor activities, and before handling food.
+     - Teach children the importance of washing hands to prevent infection.
+     - Teach children that it is dangerous to eat dirt or soil.
+    
+    
+More on: Handwashing
+    
+Toxocara eggs have a strong protective layer which makes the eggs able to survive in the environment for months or even years under the right conditions. Many common disinfectants are not effective against Toxocara eggs but extreme heat has been shown to kill the eggs. Prompt removal of animal feces can help prevent infection since the eggs require 2 to 4 weeks to become infective once they are out of the animal.","
+To prevent Toxocariasis, one can take DEC preventively, reduce the number of carrier insects in a particular area, avoid mosquito bites with insecticides and insect repellents, wear protective clothing, use bed netting, maintain proper hand washing techniques and hygiene, and avoid eating uncooked fish, plants, or animals from potentially infected waters."
+0.4175824175824176,0.21978021978021978,3.827690053790458e-155,0.15555555064444462,0.7126424882293606,What is (are) Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis ?,"Acanthamoeba is a microscopic, free-living ameba (single-celled living organism) commonly found in the environment that can cause rare, but severe, illness. Acanthamoeba causes three main types of illness involving the eye (Acanthamoeba keratitis), the brain and spinal cord (Granulomatous Encephalitis), and infections that can spread throughout the entire body (disseminated infection).","Acanthamoeba - Granulomatous Amebic Encephalitis (GAE) is a type of encephalitis caused by the Acanthamoeba protozoa. Keratitis, on the other hand, is an inflammation of the cornea in the eye, which can be caused by various factors, including Acanthamoeba."
+0.20064724919093851,0.11003236245954692,0.00031139371507595817,0.15047021728953136,0.7167964836497591,Who is at risk for Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis? ?,"Acanthamoeba keratitis
+  
+   
+Acanthamoeba keratitis is a rare disease that can affect anyone, but is most common in individuals who wear contact lenses. In the United States, an estimated 85% of cases occur in contact lens users. The incidence of the disease in developed countries is approximately one to 33 cases per million contact lens wearers.
+   
+For people who wear contact lenses, certain practices can increase the risk of getting Acanthamoeba keratitis:
+   
+    - Storing and handling lenses improperly
+    - Disinfecting lenses improperly (such as using tap water or topping off solutions when cleaning the lenses or lens case)
+    - Swimming, using a hot tub, or showering while wearing lenses
+    - Coming into contact with contaminated water
+    - Having a history of trauma to the cornea
+   
+   
+Contact lens wearers who practice proper lens care and non-contact lens wearers can still develop the infection. For additional information on contact lens care and prevention of Acanthamoeba keratitis visit CDC’s web page on Prevention and Control.
+   
+There have been no reports of Acanthamoeba keratitis being spread from one person to another.
+   Granulomatous Amebic Encephalitis (GAE)
+   
+Granulomatous Amebic Encephalitis (GAE) and disseminated infection are very rare forms of Acanthamoeba infection and primarily affect people with compromised immune systems. While unusual, disseminated infection can also affect healthy children and adults. Conditions that may increase a patient’s risk for GAE and disseminated infection include:
+   
+    - AIDS
+    - Organ/Tissue transplant
+    - Steroids or excessive use of antibiotics
+    - Diabetes Mellitus
+    - Cancer
+    - Disorders in which white blood cells in the lymphatic tissue are over-produced or abnormal
+    - Disorders in which blood cells or blood clotting mechanisms do not function properly or are abnormal
+    - Liver cirrhosis
+    - Lupus","
+People who are at risk for Acanthamoeba - Granulomatous Amebic Encephalitis (GAE) and Keratitis include those who have been exposed to contaminated water, such as swimming pools, hot tubs, or contaminated tap water, and those with weakened immune systems."
+0.39473684210526316,0.25,0.05317235107808933,0.2399999953555556,0.8427590922333935,How to diagnose Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis ?,"Early diagnosis is essential for effective treatment of Acanthamoeba keratitis. The infection is usually diagnosed by an eye specialist based on symptoms, growth of the ameba from a scraping of the eye, and/or seeing the ameba by a process called confocal microscopy.
+    
+Granulomatous Amebic Encephalitis (GAE) and disseminated infection are more difficult to diagnose and are often at advanced stages when they are diagnosed. Tests useful in the diagnosis of GAE include brain scans, biopsies, or spinal taps. In disseminated disease, biopsy of the involved sites (e.g. , skin, sinuses) can be useful in diagnosis.","
+Diagnosis of Acanthamoeba - Granulomatous Amebic Encephalitis (GAE) and Keratitis is based on a combination of the patient’s history, particularly travel or residence in areas known to have Acanthamoeba, and identification of the Acanthamoeba's eggs or adult forms. In some patients, the eggs may be found in fluid from the brain, cerebrospinal fluid, or eyes."
+0.3584905660377359,0.169811320754717,4.7162128468028804e-155,0.19047618550521553,0.7463239025387065,What are the treatments for Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis ?,"Early diagnosis is essential for effective treatment of Acanthamoeba keratitis. Several prescription eye medications are available for treatment. However, the infection can be difficult to treat. The best treatment regimen for each patient should be determined by an eye doctor. If you suspect your eye may be infected with Acanthamoeba, see an eye doctor immediately.
+    
+Skin infections that are caused by Acanthamoeba but have not spread to the central nervous system can be successfully treated. Because this is a serious infection and the people affected typically have weakened immune systems, early diagnosis offers the best chance at cure.
+    
+Most cases of brain and spinal cord infection with Acanthamoeba (Granulomatous Amebic Encephalitis) are fatal.","
+The treatment for Acanthamoeba - Granulomatous Amebic Encephalitis (GAE) includes antibiotics and antifungal medications. However, it's important to note that GAE is a rare and severe form of amebic encephalitis, and the treatment can be challenging due to the ameba's resistance to many drugs.
+
+For Keratitis caused by Acanthamoeba, treatment typically involves the use of antiparasitic drugs such as polyhexamethylene biguanide (PHMB) or chlorhexidine. In severe cases, biguanide compounds like propamidine isethionate might be used. It's crucial to complete the entire course of treatment as directed to ensure the infection is cleared up and does not recur."
+0.0,0.0,0.0,0.0,-0.004987037609701826,How to prevent Acanthamoeba - Granulomatous Amebic Encephalitis (GAE); Keratitis ?,Topics,"
+To prevent Acanthamoeba - Granulomatous Amebic Encephalitis (GAE) and Keratitis, it is important to avoid contact with contaminated water, such as water from lakes, hot tubs, or swimming pools. Additionally, it is advisable to wear protective eyewear when swimming or using tap water for contact lens rinsing. If medication is prescribed, it is crucial to finish the course of antibiotics as directed to ensure that the infection is cleared up and does not recur."
