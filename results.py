@@ -1,7 +1,8 @@
 import pandas as pd
 
 # Load CSV file
-csv_path = "/mnt/data/medquad_evaluation_results.csv"
+csv_path = "C:\\Users\\Anuj\\Desktop\\Sem 6 DA\\Machine Learning J component\\ML Project Final cloned\\medquad_evaluation_results (5).csv"
+
 df = pd.read_csv(csv_path)
 
 # Calculate average scores
