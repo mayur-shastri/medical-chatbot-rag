@@ -242,9 +242,11 @@ If the context does not contain sufficient information, say that you don't knowâ
 Context: {context}  
 Question: {question}
 
+If the user question contains inappropriate manguage, respond with : I cannot assist with that" 
+
 Begin your answer concisely but provide enough detail for clarity.
 
-User Information :
+Example User Information :
 Age: 62
 Gender: Female
 Location: India
