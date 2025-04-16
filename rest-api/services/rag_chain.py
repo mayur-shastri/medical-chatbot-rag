@@ -1,5 +1,4 @@
 import os
-import re
 
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
@@ -25,12 +24,6 @@ def get_vectorstore():
 
 def set_custom_prompt():
     template = """
-Use the information provided in the context and user profile to answer the user's question as accurately and comprehensively as possible.
-If the context does not contain sufficient information, say you don't know—do not fabricate information.
-
-- If relevant, incorporate symptoms, causes, or treatments mentioned in the context.
-- If the question involves a health concern, give possible next steps (e.g., consult a specialist).
-
 You are a diagnostic assistant. The user provides current symptoms and demographic data.
 You are given context about:
 - how symptoms map to possible diseases in different demographic groups
@@ -44,15 +37,18 @@ Your task is to:
 
 Only make conclusions based on the context provided.
 
-User Profile & Chat Context:
-{context}
+User Profile:
+{user_context}
+
+Reference Documents:
+{doc_context}
 
 Question:
 {question}
 
 Begin your answer concisely but informatively.
 """
-    return PromptTemplate(template=template, input_variables=["context", "question"])
+    return PromptTemplate(template=template, input_variables=["user_context", "doc_context", "question"])
 
 def load_llm():
     return HuggingFaceEndpoint(
@@ -61,35 +57,30 @@ def load_llm():
         model_kwargs={"token": HF_TOKEN, "max_length": "512"}
     )
 
-def highlight_terms(text, context):
-    """Highlight words from the context that appear in the chatbot response by making them bold."""
-    terms = set(re.findall(r'\b[A-Za-z-]+\b', context))
-    for term in sorted(terms, key=len, reverse=True):
-        pattern = re.compile(rf'\b{re.escape(term)}\b', re.IGNORECASE)
-        text = pattern.sub(f'**{term}**', text)
-    return text
-
 def get_rag_response(user_query, user_context):
     vectorstore = get_vectorstore()
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
+    # Retrieve documents
+    docs = retriever.get_relevant_documents(user_query)
+    doc_context = " ".join([doc.page_content for doc in docs])
+
+    # Set up QA chain with custom prompt
     chain = RetrievalQA.from_chain_type(
         llm=load_llm(),
         chain_type="stuff",
         retriever=retriever,
-        return_source_documents=True,
-        chain_type_kwargs={"prompt": set_custom_prompt()}
+        return_source_documents=False,
+        chain_type_kwargs={
+            "prompt": set_custom_prompt()
+        }
     )
 
+    # Invoke the chain
     result = chain.invoke({
         "question": user_query,
-        "context": user_context
+        "user_context": user_context,
+        "doc_context": doc_context
     })
 
-    if not result:
-        return "No response generated."
-
-    answer = result["result"]
-    context_text = " ".join([doc.page_content for doc in result["source_documents"]])
-    highlighted = highlight_terms(answer, context_text)
-    return highlighted
+    return result["result"]
